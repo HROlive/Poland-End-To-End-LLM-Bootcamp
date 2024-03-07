@@ -5,6 +5,8 @@
 2. [Information](#information)
 3. [Tools and Frameworks](#tools)
 4. [Certificate](#certificate)
+5. [Attribution](#attribution)
+6. [Licensing](#licensing)
 
 <a name="descripton"></a>
 ## Description
@@ -44,3 +46,13 @@ The tools and frameworks used in the Bootcamp material are as follows:
 The certificate for the workshop can be found below:
 
 ["Poland End-To-End LLM Bootcamp" - Academic Computer Centre Cyfronet AGH, PLGrid Infrastructure and Polish National Competence HPC Centre]() (Issued On: March 2024)
+
+<a name="attribution"></a>
+## Attribution
+
+This material is an adaptation of the original repository from the [OpenHackathons Github](https://github.com/openhackathons-org/End-to-End-LLM).
+
+<a name="licensing"></a>
+## Licensing
+
+Copyright © 2023 OpenACC-Standard.org. This material is released by OpenACC-Standard.org, in collaboration with NVIDIA Corporation, under the Creative Commons Attribution 4.0 International (CC BY 4.0). These materials may include references to hardware and software developed by other entities; all applicable licensing and copyrights apply.
