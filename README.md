@@ -50,7 +50,7 @@ The certificate for the workshop can be found below:
 <a name="attribution"></a>
 ## Attribution
 
-This material is an adaptation of the original repository from the [OpenHackathons Github](https://github.com/openhackathons-org).
+This material is an adaptation of the original repository from the [OpenHackathons Github](https://github.com/openhackathons-org/End-to-End-LLM).
 
 <a name="licensing"></a>
 ## Licensing
