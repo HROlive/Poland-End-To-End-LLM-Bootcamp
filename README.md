@@ -50,7 +50,7 @@ The certificate for the workshop can be found below:
 <a name="attribution"></a>
 ## Attribution
 
-This material originates from the OpenHackathons Github repository. Check out additional materials [here](https://github.com/openhackathons-org)
+This material is an adaptation of the original repository from the [OpenHackathons Github](https://github.com/openhackathons-org).
 
 <a name="licensing"></a>
 ## Licensing
